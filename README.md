@@ -1,7 +1,7 @@
 # PasswordGenerator
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+AS an employee with access to sensitive data
+I want to randomly generate a password that meets certain criteria
+So that I can create a strong password that provides greater security
 
 # My Task
 
@@ -22,4 +22,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-Now you are able to successfully generate a new password that appeals to your set parameters.
+Now as the user, you are able to successfully generate a new password that appeals to your set parameters.
